@@ -1,2 +1,4 @@
 # hello-world
-a journey into the developers world that i want to explore and learn
+
+a journey i beegin and i hope to succeed
+eager i exume as i fall into the tune
